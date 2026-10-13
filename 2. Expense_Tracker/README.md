@@ -48,7 +48,7 @@ If `expenses.csv` is missing, it is created automatically when the first expense
 ## Output Screenshots
 
 **1. Add expense**
-![Adding expense](Screenshots_of_output/adding_expense.png)
+![Adding expense](Screenshots_of_output/Adding_expense.png)
 
 **2. View all expenses**
 ![Viewing expense](Screenshots_of_output/Viewing_all_expenses.png)
