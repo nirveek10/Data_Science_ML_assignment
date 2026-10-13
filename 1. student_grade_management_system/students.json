@@ -1,0 +1,37 @@
+{
+    "Abhik": {
+        "marks": {
+            "Math": 92.0,
+            "Science": 88.0,
+            "English": 85.0
+        }
+    },
+    "Ankit": {
+        "marks": {
+            "Math": 95.0,
+            "Science": 97.0,
+            "English": 91.0
+        }
+    },
+    "Rohan": {
+        "marks": {
+            "Math": 72.0,
+            "Science": 65.0,
+            "English": 78.0
+        }
+    },
+    "Ronit": {
+        "marks": {
+            "Math": 58.0,
+            "Science": 62.0,
+            "English": 55.0
+        }
+    },
+    "Kabin": {
+        "marks": {
+            "Math": 66.0,
+            "Science": 65.0,
+            "English": 69.0
+        }
+    }
+}
